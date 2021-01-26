@@ -1,3 +1,30 @@
+# Guru's Spring Framework & Boot course completion
+
+## What can be seen
+Super simple thymeleaf template displaying data from the database + some statistics about the data
+
+**Entities:** Author, Book & Publisher.
+
+### Tasks completed and understood
+- Setting up environment & Spring Initializr
+- JPA Entities
+- Equality in Hibernate
+- Spring Data Repos
+- Database & H2 Database
+- Spring MVC
+- Thymeleaf templates
+
+**Some setup might be required on IntelliJ.**
+
+
+Run the application, look at the console for stats, go to `localhost:8080/books_list` to see the books in the database and go to `localhost:8080/authors_list` to see the authors in the database.
+
+
+
+
+__________________________________________________________________________________
+
+
 # Spring Framework 5: Beginner to Guru
 
 This repository is for an example application built in my [Spring Framework 5 - Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO) online course
